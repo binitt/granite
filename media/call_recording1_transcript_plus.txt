@@ -1,0 +1,17 @@
+Speaker 1: Welcome to Jurelia State Agent. How can I help you?
+Speaker 2: Hello. I need to inquire about 106 Mount Marion Avenue, Belfast.
+Speaker 1: Could you please confirm the I didn't catch that. Could you please say it again?
+Speaker 2: Yeah, I need to inquire about 106 Mount Marion Avenue, Belfast.
+Speaker 1: Let me see. Can I start by getting your first name, please? Arun. Thanks, Arun. Can I have your last name now?
+Speaker 2: Card.
+Speaker 1: Hello.
+Speaker 2: Yeah, my last name is Card.
+Speaker 1: Thanks, Arun, Card. Let me spell that back to you. A-R-U-N-C-A-R-D. Is that right?
+Speaker 2: No. Uh, A-R-U-N-K-A-R-N.
+Speaker 1: Thanks for that. A-R-U-N-N-K-A-R-N. Is the number you're calling from the best number to reach you?
+Speaker 2: Yes.
+Speaker 1: Please spell the property address you want details for letter by letter.
+Speaker 2: Uh, 106 Mount Marion Avenue.
+Speaker 1: Let me see. I've noted your request about the property and someone from the team will get back to you. Anything else I can help with?
+Speaker 2: Not for now, thank you.
+Speaker 1: Thank you for calling Jurelia State Agent. Have a great day.
