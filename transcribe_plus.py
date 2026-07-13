@@ -33,8 +33,8 @@ tokenizer = processor.tokenizer
 model = AutoModelForSpeechSeq2Seq.from_pretrained(MODEL_NAME, dtype=dtype).to(device)
 model.eval()
 
-audio_path = "media/call_recording1.mp3"
-output_path = "media/call_recording1_transcript_plus.txt"
+audio_path = "media/call_recording.mp3"
+output_path = "media/call_recording_transcript_plus.txt"
 
 
 def parse_transcript(text: str) -> list[dict]:
