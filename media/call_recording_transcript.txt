@@ -1,0 +1,21 @@
+[1.9s - 5.0s] welcome to durango estate agents how can i help you
+[6.4s - 18.4s] hi i was actually looking for a property hi there what can i do for you today
+[20.0s - 30.7s] i didn't catch that clearly, could you please repeat the address or details of the property?
+[32.9s - 41.5s] could you please say the address or any part of the property you're interested in again. i was talking about my lady's gold.
+[46.1s - 49.8s] let me see could i please have your first name
+[51.0s - 52.9s] 
+[54.7s - 57.8s] thanks anurag could you please spell your first name for me
+[59.1s - 60.3s] 
+[62.2s - 67.4s] thanks anurag could you please spell your last name for me it's nepal
+[80.7s - 84.8s] hello hello yeah it's never late
+[86.7s - 97.0s] thanks nupaul let me spell that back a-n-u-r-a-g for your first name n-e-p-a-l for your last name is that right yeah that's correct
+[102.4s - 109.5s] 
+[111.1s - 125.0s] i didn't catch that could you please confirm if the spelling i said is correct yeah yeah you're correct thanks for confirming is the number you're calling from the best number to reach you
+[126.3s - 150.2s] i can't get it to work here. please go ahead and tell me the best number to reach you on could you please tell me the best phone number to reach you on it's the correct number that you are currently calling on
+[151.8s - 159.3s] 
+[162.2s - 163.0s] hello
+[164.4s - 200.3s] 
+[202.6s - 203.5s] 
+[205.2s - 206.1s] 
+[209.2s - 210.1s] 
+[214.7s - 215.4s] 

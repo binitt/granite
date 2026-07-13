@@ -1,0 +1,25 @@
+Agent: Come to Dorelli Estate Agents. How can I help you?
+User: Hi.
+Agent: Hi there, what can I do for you today?
+User: Yeah. I was looking after the property one. 7. My vehicle is zero five six.
+Agent: I didn't catch that clearly. Could you please repeat the address or details of the property?
+User: Okay. I was looking after the mine using the old property. That okay.
+Agent: Could you please say the address or any part of the property you're interested in again?
+User: I was talking about my lady's goal.
+Agent: Let me see. Could I please have your first name?
+User: Okay. Anurag Nepal.
+Agent: Thanks, Anarag. Could you please spell your first name for me?
+User: Anurag.
+Agent: Thanks, Anorag. Could you please spell your last name for me? Hello? Thanks, Nepal. Let me spell that back. A n u r a g for your first name, n e p a l for your last name. Is that right?
+User: Hello?
+Agent: I didn't catch that. Could you please confirm if the spelling I said is correct?
+User: No. Yeah. I did connect.
+Agent: Thanks for confirming. Is the number you're calling from the best number to reach you?
+User: I can give you.
+Agent: Please go ahead and tell me the best number to reach you on.
+User: Yeah.
+Agent: Could you please tell me the best phone number to reach you on? Hello?
+User: Yeah. I see the number. I'm calling right now, that would be a number to get me back later.
+Agent: Let me see. Could you please spell the address of the property for me? Just the spelling, nothing else.
+User: Okay. This My lady is not there.
+Agent: I didn't catch that clearly. Could you please spell the address of the property again?

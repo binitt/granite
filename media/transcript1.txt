@@ -1,0 +1,21 @@
+Agent: Welcome to Dorelli Estate Agents. How can I help you?
+User: Hello. I need
+Agent: I didn't
+User: to inquire about one year six hello?
+Agent: Could you please confirm
+User: I need to
+Agent: I didn't catch that. Could you please say it again?
+User: Yeah. I need to inquire about one zero six Mount Merion Avenue. Belfast.
+Agent: Let me see. Can I start by getting your first name please?
+User: Arun.
+Agent: Thanks, Aaron. Can I have your last name now? Hello?
+User: Yeah. My last name is Card.
+Agent: Thanks, Arancard. Let me spell that back to you, a r u n c a r d. Is that right?
+User: No. A r u n k a r n.
+Agent: Thanks for that. A r r u n n k a r n. Is the number you're calling from the best number to reach reach you?
+User: Yes.
+Agent: Please spell the property address you want details for. Letter by letter.
+User: Hundred Mount Marion Avenue.
+Agent: Let me see. I've noted your request about the and someone from the team will get back to you. Anything else I can help with?
+User: Not for now. Thank you.
+Agent: Thank you for calling Jurelli Estate Agents.
