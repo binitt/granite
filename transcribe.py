@@ -1,3 +1,5 @@
+import time
+
 import librosa
 import torch
 from transformers import AutoModelForSpeechSeq2Seq, AutoProcessor
@@ -9,13 +11,16 @@ torch.set_num_threads(1)
 
 device = "cuda" if torch.cuda.is_available() else "cpu"
 dtype = torch.bfloat16 if device == "cuda" else torch.float32
+print(f"Device: {device}")
+
+start_time = time.perf_counter()
 
 model_name = "ibm-granite/granite-4.0-1b-speech"
 processor = AutoProcessor.from_pretrained(model_name)
 tokenizer = processor.tokenizer
 model = AutoModelForSpeechSeq2Seq.from_pretrained(model_name, dtype=dtype).to(device)
 
-audio_path = "media/call_recording.mp3"
+audio_path = "media/call_recording1.mp3"
 output_path = "media/call_recording_transcript.txt"
 
 wav_np, _ = librosa.load(audio_path, sr=SAMPLE_RATE, mono=True)
@@ -45,3 +50,4 @@ print(transcript)
 with open(output_path, "w", encoding="utf-8") as f:
     f.write(transcript)
 print(f"\nSaved to {output_path}")
+print(f"Total time: {time.perf_counter() - start_time:.1f}s")
