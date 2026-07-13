@@ -1,5 +1,4 @@
-transformers 
+transformers
 torch
 soundfile
 librosa
-silero-vad
